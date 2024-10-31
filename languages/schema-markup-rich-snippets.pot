@@ -1,0 +1,3177 @@
+# Copyright (C) 2019 schema-markup
+# This file is distributed under the same license as the schema-markup package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rich Snippets by Rank Math\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Rank Math\n"
+"Last-Translator: MyThemeShop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-admin-menu.php:47 includes/admin/class-admin.php:40
+#: includes/class-cmb2.php:171
+msgid "Rank Math"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:61
+#: includes/admin/views/help-manager.php:15
+msgid "Help &amp; Support"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:86
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-admin.php:84
+msgid "Modules"
+msgstr ""
+
+#: includes/admin/class-admin.php:90
+msgid "Help"
+msgstr ""
+
+#: includes/admin/class-admin.php:96 includes/admin/class-import-export.php:44
+#: includes/admin/views/import-export/main.php:14
+msgid "Import &amp; Export"
+msgstr ""
+
+#: includes/admin/class-admin.php:119
+msgid "Activate Now"
+msgstr ""
+
+#: includes/admin/class-admin.php:123
+msgid "Install for Free"
+msgstr ""
+
+#: includes/admin/class-admin.php:141
+msgid "WordPress SEO Plugin – Rank Math"
+msgstr ""
+
+#: includes/admin/class-admin.php:142 includes/admin/class-metabox.php:87
+#: schema-markup.php:206
+msgid "Rank Math SEO"
+msgstr ""
+
+#: includes/admin/class-admin.php:160
+msgid "Rank Math is a revolutionary SEO plugin that combines the features of many SEO tools in a single package & helps you multiply your traffic."
+msgstr ""
+
+#: includes/admin/class-admin.php:166
+msgid "Compatible"
+msgstr ""
+
+#: includes/admin/class-admin.php:166
+msgid "with your version of WordPress"
+msgstr ""
+
+#. translators: plugin url
+#: includes/admin/class-assets.php:94
+#, php-format
+msgid "Thank you for using <a href=\"%s\" target=\"_blank\">Rank Math</a>"
+msgstr ""
+
+#: includes/admin/class-cmb2-fields.php:61
+msgid "Off"
+msgstr ""
+
+#: includes/admin/class-cmb2-fields.php:62
+msgid "On"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:95
+msgid "Quick Feedback"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:99
+msgid "If you have a moment, please share why you are deactivating Rank Math:"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:124
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:126
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:146
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:150
+msgid "I found a better plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:151
+msgid "Please share which plugin"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:154
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:158
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:162
+#: includes/modules/rich-snippet/views/job-posting.php:92
+msgid "Other"
+msgstr ""
+
+#: includes/admin/class-deactivate-survey.php:163
+msgid "Please share the reason"
+msgstr ""
+
+#: includes/admin/class-import-export.php:60
+msgid "Are you sure you want to import data into Schema Marup?"
+msgstr ""
+
+#: includes/admin/class-import-export.php:89
+msgid "Action not allowed."
+msgstr ""
+
+#. translators: Plugin name
+#: includes/admin/class-import-export.php:112
+#, php-format
+msgid "Cleanup of %s data successfully done."
+msgstr ""
+
+#. translators: Plugin name
+#: includes/admin/class-import-export.php:116
+#, php-format
+msgid "Cleanup of %s data failed."
+msgstr ""
+
+#: includes/admin/class-import-export.php:145
+#: includes/admin/class-import-export.php:150
+#: includes/admin/class-import-export.php:155
+msgid "Settings could not be imported:"
+msgstr ""
+
+#: includes/admin/class-import-export.php:155
+msgid "Upload failed."
+msgstr ""
+
+#: includes/admin/class-import-export.php:167
+msgid "Settings successfully imported."
+msgstr ""
+
+#: includes/admin/class-import-export.php:171
+msgid "No settings found to be imported."
+msgstr ""
+
+#: includes/admin/class-option-center.php:45
+msgid "Local SEO"
+msgstr ""
+
+#. translators: Redirection page url
+#: includes/admin/class-option-center.php:47
+#, php-format
+msgid "This tab contains settings related to contact information & opening hours of your local business. Use the <code>[rank_math_contact_info]</code> shortcode to display contact information in a nicely formatted way. %s. You should also claim your business on Google if you have not already."
+msgstr ""
+
+#: includes/admin/class-option-center.php:47
+#: includes/admin/class-option-center.php:83
+#: includes/admin/class-option-center.php:84
+#: includes/admin/class-option-center.php:85
+#: includes/admin/class-option-center.php:86
+#: includes/admin/class-option-center.php:135
+#: includes/admin/class-option-center.php:136
+#: includes/admin/class-option-center.php:137
+#: includes/admin/class-option-center.php:138
+msgid "Learn more"
+msgstr ""
+
+#: includes/admin/class-option-center.php:60
+#: includes/admin/class-option-center.php:61
+#: includes/class-module-manager.php:70
+#: includes/modules/rich-snippet/views/help.php:10
+msgid "Rich Snippets"
+msgstr ""
+
+#: includes/admin/class-option-center.php:97
+msgid "Post Types:"
+msgstr ""
+
+#. translators: 1. post type name 2. link
+#. translators: 1. taxonomy name 2. link
+#: includes/admin/class-option-center.php:110
+#: includes/admin/class-option-center.php:157
+#, php-format
+msgid "This tab contains SEO options for %1$s. %2$s"
+msgstr ""
+
+#: includes/admin/class-option-center.php:166
+msgid "Post Formats"
+msgstr ""
+
+#: includes/admin/class-option-center.php:167
+msgid "Post Formats Archive"
+msgstr ""
+
+#: includes/admin/class-options.php:136
+msgid "Panel"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:133
+#: includes/admin/importers/class-wp-schema-pro.php:225
+#: includes/admin/views/import-export/import-panel.php:12
+msgid "Import Settings"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:133
+msgid "Import Yoast plugin settings, global meta, sitemap settings, etc."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:134
+msgid "Import Post Meta"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:134
+msgid "Import meta information of your posts/pages like the focus keyword, titles, descriptions, robots meta, OpenGraph info, etc."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:135
+msgid "Import Term Meta"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:135
+msgid "Import data like category, tag, and CPT meta data from Yoast SEO."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:136
+msgid "Import Author Meta"
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:136
+msgid "Import meta information like titles, descriptions, focus keyword, robots meta, etc., of your author archive pages."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:215
+msgid "Unable to perform action this time."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:226
+msgid "Settings imported successfully."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:227
+msgid "Plugin deactivated successfully."
+msgstr ""
+
+#. translators: start, end, total
+#: includes/admin/importers/abstract-importer.php:229
+#, php-format
+msgid "Imported post meta for posts %1$s - %2$s out of %3$s "
+msgstr ""
+
+#. translators: total
+#: includes/admin/importers/abstract-importer.php:231
+#, php-format
+msgid "Imported term meta for %s terms."
+msgstr ""
+
+#. translators: start, end, total
+#: includes/admin/importers/abstract-importer.php:233
+#, php-format
+msgid "Imported user meta for users %1$s - %2$s out of %3$s "
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:237
+msgid "Settings import failed."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:238
+msgid "Posts meta import failed."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:239
+msgid "Term meta import failed."
+msgstr ""
+
+#: includes/admin/importers/abstract-importer.php:240
+msgid "User meta import failed."
+msgstr ""
+
+#: includes/admin/importers/class-aio-rich-snippet.php:185
+#: includes/admin/importers/class-wp-schema-pro.php:226
+msgid "Import Rich Snippets"
+msgstr ""
+
+#: includes/admin/importers/class-aio-rich-snippet.php:185
+#: includes/admin/importers/class-wp-schema-pro.php:226
+msgid "Import all Schema data for Posts, Pages, and custom post types."
+msgstr ""
+
+#: includes/admin/importers/class-wp-schema-pro.php:225
+msgid "Plugin settings and site-wide meta data."
+msgstr ""
+
+#: includes/admin/views/dashboard.php:20
+msgid "Welcome to Rank Math!"
+msgstr ""
+
+#: includes/admin/views/dashboard.php:23
+msgid "The most complete WordPress SEO plugin to convert your website into a traffic generating machine."
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:13
+msgid "Export Settings"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:18
+msgid "Panels"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:21
+msgid "Titles &amp; Metas"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:23
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:26
+msgid "Choose the panels to export."
+msgstr ""
+
+#: includes/admin/views/import-export/export-panel.php:34
+msgid "Export"
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:18
+msgid "Setting File"
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:23
+msgid "Please select a file to import."
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:24
+msgid "Import settings by locating setting file and clicking \"Import settings\"."
+msgstr ""
+
+#: includes/admin/views/import-export/import-panel.php:33
+#: includes/admin/views/import-export/plugins-panel.php:31
+msgid "Import"
+msgstr ""
+
+#. translators: Link to learn about import export panel KB article
+#: includes/admin/views/import-export/main.php:19
+#, php-format
+msgid "Import your previous backed up setting. Or, Export your Rank Math settings and meta data for backup or for reuse on (another) blog. %s"
+msgstr ""
+
+#: includes/admin/views/import-export/main.php:19
+msgid "Learn more about the Import/Export option."
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:16
+msgid "Plugin Importers"
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:21
+msgid "No plugin detected with importable data."
+msgstr ""
+
+#: includes/admin/views/import-export/plugins-panel.php:32
+msgid "Clean"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:20
+msgid "Plugin Updates"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:22
+msgid "Update Available"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:22
+msgid "Plugin up to date"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:28
+msgid "Installed Version"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:30
+msgid "Latest Available Version"
+msgstr ""
+
+#: includes/admin/views/plugin-updates.php:32
+msgid "Check for Updates"
+msgstr ""
+
+#. translators: deactivation link
+#: includes/admin/watcher/class-watcher.php:95
+#, php-format
+msgid "Please keep only one SEO plugin active, otherwise, you might lose your rankings and traffic. %s."
+msgstr ""
+
+#: includes/class-helper.php:53 includes/helpers/class-choices.php:487
+msgid "Exact"
+msgstr ""
+
+#: includes/class-helper.php:54 includes/helpers/class-choices.php:488
+msgid "Contains"
+msgstr ""
+
+#: includes/class-helper.php:55 includes/helpers/class-choices.php:489
+msgid "Starts With"
+msgstr ""
+
+#: includes/class-helper.php:56 includes/helpers/class-choices.php:490
+msgid "End With"
+msgstr ""
+
+#: includes/class-helper.php:57 includes/helpers/class-choices.php:491
+msgid "Regex"
+msgstr ""
+
+#: includes/class-helper.php:139 includes/helpers/class-choices.php:470
+msgid "301 Permanent Move"
+msgstr ""
+
+#: includes/class-helper.php:140 includes/helpers/class-choices.php:471
+msgid "302 Temporary Move"
+msgstr ""
+
+#: includes/class-helper.php:141 includes/helpers/class-choices.php:472
+msgid "307 Temporary Redirect"
+msgstr ""
+
+#: includes/class-helper.php:142 includes/helpers/class-choices.php:473
+msgid "410 Content Deleted"
+msgstr ""
+
+#: includes/class-helper.php:143 includes/helpers/class-choices.php:474
+msgid "451 Content Unavailable for Legal Reasons"
+msgstr ""
+
+#: includes/class-module-manager.php:71
+msgid "Enable support for the Rich Snippets, which adds metadata to your website, resulting in rich search results and more traffic."
+msgstr ""
+
+#: includes/class-module-manager.php:79
+msgid "AMP"
+msgstr ""
+
+#: includes/class-module-manager.php:80
+msgid "Install AMP plugin from WordPress.org to make Rank Math work with Accelerated Mobile Pages. It is required because AMP are different than WordPress pages and our plugin doesn't work with them out-of-the-box."
+msgstr ""
+
+#: includes/class-module-manager.php:86
+msgid "Redirections"
+msgstr ""
+
+#: includes/class-module-manager.php:87
+msgid "Redirect non-existent content easily with 301 and 302 status code. This can help reduce errors and improve your site ranking."
+msgstr ""
+
+#: includes/class-module-manager.php:93
+msgid "404 Monitor"
+msgstr ""
+
+#: includes/class-module-manager.php:94
+msgid "Records the URLs on which visitors & search engines run into 404 Errors. You can also turn on Redirections to redirect the error causing URLs to other URLs."
+msgstr ""
+
+#: includes/class-module-manager.php:100
+msgid "Local SEO & Google Knowledge Graph"
+msgstr ""
+
+#: includes/class-module-manager.php:101
+msgid "Dominate the search results for local audience by optimizing your website and posts using this Rank Math module."
+msgstr ""
+
+#: includes/class-module-manager.php:107
+msgid "Role Manager"
+msgstr ""
+
+#: includes/class-module-manager.php:108
+msgid "The Role Manager allows you to use internal WordPress' roles to control which of your site admins can change Rank Math's settings"
+msgstr ""
+
+#: includes/class-module-manager.php:114
+msgid "Search Console"
+msgstr ""
+
+#: includes/class-module-manager.php:115
+msgid "Connect Rank Math with Google Search Console to see the most important information from Google directly in your WordPress dashboard."
+msgstr ""
+
+#: includes/class-module-manager.php:121
+msgid "SEO Analysis"
+msgstr ""
+
+#: includes/class-module-manager.php:122
+msgid "Let Rank Math analyze your website and your website's content using 70+ different tests to provide tailor-made SEO Analysis to you."
+msgstr ""
+
+#: includes/class-module-manager.php:128
+msgid "Sitemap"
+msgstr ""
+
+#: includes/class-module-manager.php:129
+msgid "Enable Rank Math's sitemap feature, which helps search engines index your website's content effectively."
+msgstr ""
+
+#: includes/class-module-manager.php:135
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-module-manager.php:136
+msgid "WooCommerce module to use Rank Math to optimize WooCommerce Product Pages."
+msgstr ""
+
+#: includes/class-module-manager.php:142
+msgid "Link Counter"
+msgstr ""
+
+#: includes/class-module-manager.php:143
+msgid "Counts the total number of internal, external links, to and from links inside your posts."
+msgstr ""
+
+#: includes/class-module-manager.php:194 schema-markup.php:316
+msgid "Settings"
+msgstr ""
+
+#: includes/class-module-manager.php:200
+msgid "Toggle"
+msgstr ""
+
+#: includes/class-module-manager.php:203
+msgid "Status:"
+msgstr ""
+
+#: includes/class-module-manager.php:205
+msgid "Active"
+msgstr ""
+
+#: includes/class-module-manager.php:207
+msgid "Inactive"
+msgstr ""
+
+#: includes/class-module.php:71
+msgid "Items per page"
+msgstr ""
+
+#. translators: 1: current page number, 2: total number of pages.
+#: includes/class-replace-vars.php:621
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+#: includes/class-replace-vars.php:831
+msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
+msgstr ""
+
+#: includes/class-replace-vars.php:841
+msgid "A replacement variable with the same name has already been registered. Try making your variable name unique."
+msgstr ""
+
+#: includes/class-replace-vars.php:844
+msgid "You cannot overrule a Rank Math standard variable replacement by registering a variable with the same name. Use the \"wpseo_replacements\" filter instead to adjust the replacement value."
+msgstr ""
+
+#: includes/class-replace-vars.php:922
+msgid "Hello World"
+msgstr ""
+
+#: includes/class-replace-vars.php:932
+msgid "Post Title"
+msgstr ""
+
+#: includes/class-replace-vars.php:933
+msgid "Title of the current post/page"
+msgstr ""
+
+#: includes/class-replace-vars.php:938
+msgid "Post Title of parent page"
+msgstr ""
+
+#: includes/class-replace-vars.php:939
+msgid "Title of the parent page of the current post/page"
+msgstr ""
+
+#: includes/class-replace-vars.php:940
+msgid "Example Title"
+msgstr ""
+
+#: includes/class-replace-vars.php:944
+msgid "Separator Character"
+msgstr ""
+
+#: includes/class-replace-vars.php:945
+msgid "Separator character, as set in the Title Settings"
+msgstr ""
+
+#: includes/class-replace-vars.php:950
+msgid "Site Title"
+msgstr ""
+
+#: includes/class-replace-vars.php:951
+msgid "Title of the site"
+msgstr ""
+
+#: includes/class-replace-vars.php:956
+msgid "Site Description"
+msgstr ""
+
+#: includes/class-replace-vars.php:957
+msgid "Description of the site"
+msgstr ""
+
+#: includes/class-replace-vars.php:962
+#: includes/modules/rich-snippet/views/book.php:64
+msgid "Date Published"
+msgstr ""
+
+#: includes/class-replace-vars.php:963
+msgid "Publication date of the current post/page <strong>OR</strong> specified date on date archives"
+msgstr ""
+
+#: includes/class-replace-vars.php:968
+msgid "Date Modified"
+msgstr ""
+
+#: includes/class-replace-vars.php:969
+msgid "Last modification date of the current post/page"
+msgstr ""
+
+#: includes/class-replace-vars.php:974 includes/class-replace-vars.php:976
+#: includes/class-replace-vars.php:980 includes/class-replace-vars.php:982
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/class-replace-vars.php:975
+msgid "Excerpt of the current post (or auto-generated if it does not exist)"
+msgstr ""
+
+#: includes/class-replace-vars.php:981
+msgid "Excerpt of the current post (without auto-generation)"
+msgstr ""
+
+#: includes/class-replace-vars.php:986
+msgid "Post Tag"
+msgstr ""
+
+#: includes/class-replace-vars.php:987
+msgid "First tag (alphabetically) associated to the current post <strong>OR</strong> current tag on tag archives"
+msgstr ""
+
+#: includes/class-replace-vars.php:988
+msgid "Example Tag"
+msgstr ""
+
+#: includes/class-replace-vars.php:992
+msgid "Post Tags"
+msgstr ""
+
+#: includes/class-replace-vars.php:993
+msgid "Comma-separated list of tags associated to the current post"
+msgstr ""
+
+#: includes/class-replace-vars.php:994
+msgid "Example Tag 1, Example Tag 2"
+msgstr ""
+
+#: includes/class-replace-vars.php:998
+msgid "Post Category"
+msgstr ""
+
+#: includes/class-replace-vars.php:999
+msgid "First category (alphabetically) associated to the current post <strong>OR</strong> current category on category archives"
+msgstr ""
+
+#: includes/class-replace-vars.php:1000
+msgid "Example Category"
+msgstr ""
+
+#: includes/class-replace-vars.php:1004
+msgid "Post Categories"
+msgstr ""
+
+#: includes/class-replace-vars.php:1005
+msgid "Comma-separated list of categories associated to the current post"
+msgstr ""
+
+#: includes/class-replace-vars.php:1006
+msgid "Example Category 1, Example Category 2"
+msgstr ""
+
+#: includes/class-replace-vars.php:1010
+msgid "Current Term"
+msgstr ""
+
+#: includes/class-replace-vars.php:1011
+msgid "Current term name"
+msgstr ""
+
+#: includes/class-replace-vars.php:1012
+msgid "Example Term"
+msgstr ""
+
+#: includes/class-replace-vars.php:1016
+msgid "Term Description"
+msgstr ""
+
+#: includes/class-replace-vars.php:1017
+msgid "Current term description"
+msgstr ""
+
+#: includes/class-replace-vars.php:1018
+msgid "Example Term Description"
+msgstr ""
+
+#: includes/class-replace-vars.php:1022
+msgid "Search Query"
+msgstr ""
+
+#: includes/class-replace-vars.php:1023
+msgid "Search query (only available on search results page)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1024
+msgid "example search"
+msgstr ""
+
+#: includes/class-replace-vars.php:1028
+msgid "Post Author"
+msgstr ""
+
+#: includes/class-replace-vars.php:1029
+msgid "Display author's nicename of the current post, page or author archive."
+msgstr ""
+
+#: includes/class-replace-vars.php:1034
+msgid "Author Description"
+msgstr ""
+
+#: includes/class-replace-vars.php:1035
+msgid "Author's biographical info of the current post, page or author archive."
+msgstr ""
+
+#: includes/class-replace-vars.php:1040
+msgid "File Name"
+msgstr ""
+
+#: includes/class-replace-vars.php:1041
+msgid "File Name of the attachment"
+msgstr ""
+
+#: includes/class-replace-vars.php:1047
+msgid "Author ID"
+msgstr ""
+
+#: includes/class-replace-vars.php:1048
+msgid "Author's user id of the current post, page or author archive."
+msgstr ""
+
+#: includes/class-replace-vars.php:1053
+msgid "Post ID"
+msgstr ""
+
+#: includes/class-replace-vars.php:1054
+msgid "ID of the current post/page"
+msgstr ""
+
+#: includes/class-replace-vars.php:1059 includes/class-replace-vars.php:1061
+msgid "Focus Keyword"
+msgstr ""
+
+#: includes/class-replace-vars.php:1060
+msgid "Focus Keyword of the current post"
+msgstr ""
+
+#: includes/class-replace-vars.php:1065
+msgid "Page"
+msgstr ""
+
+#: includes/class-replace-vars.php:1066
+msgid "Page number with context (i.e. page 2 of 4). Only displayed on page 2 and above."
+msgstr ""
+
+#: includes/class-replace-vars.php:1071
+msgid "Max Pages"
+msgstr ""
+
+#: includes/class-replace-vars.php:1072
+msgid "Max pages number"
+msgstr ""
+
+#: includes/class-replace-vars.php:1077
+msgid "Page Number"
+msgstr ""
+
+#: includes/class-replace-vars.php:1078
+msgid "Current page number"
+msgstr ""
+
+#: includes/class-replace-vars.php:1083
+msgid "Current Time"
+msgstr ""
+
+#: includes/class-replace-vars.php:1084
+msgid "Current server time"
+msgstr ""
+
+#: includes/class-replace-vars.php:1089
+msgid "Current Date"
+msgstr ""
+
+#: includes/class-replace-vars.php:1090
+msgid "Current server date"
+msgstr ""
+
+#: includes/class-replace-vars.php:1095
+msgid "Current Day"
+msgstr ""
+
+#: includes/class-replace-vars.php:1096
+msgid "Current server day"
+msgstr ""
+
+#: includes/class-replace-vars.php:1101
+msgid "Current Month"
+msgstr ""
+
+#: includes/class-replace-vars.php:1102
+msgid "Current server month"
+msgstr ""
+
+#: includes/class-replace-vars.php:1107
+msgid "Current Year"
+msgstr ""
+
+#: includes/class-replace-vars.php:1108
+msgid "Current server year"
+msgstr ""
+
+#: includes/class-replace-vars.php:1113
+msgid "Post Type Name Singular"
+msgstr ""
+
+#: includes/class-replace-vars.php:1114
+msgid "Name of current post type (singular)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1115 includes/helpers/class-choices.php:444
+#: includes/modules/rich-snippet/views/metabox-options.php:31
+#: includes/settings/titles/post-types.php:43
+msgid "Product"
+msgstr ""
+
+#: includes/class-replace-vars.php:1119
+msgid "Post Type Name Plural"
+msgstr ""
+
+#: includes/class-replace-vars.php:1120
+msgid "Name of current post type (plural)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1121
+msgid "Products"
+msgstr ""
+
+#: includes/class-replace-vars.php:1125
+msgid "Custom Field (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1126
+msgid "Custom field value."
+msgstr ""
+
+#: includes/class-replace-vars.php:1127
+msgid "Custom field value"
+msgstr ""
+
+#: includes/class-replace-vars.php:1131
+msgid "Date Published (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1132
+msgid "Publish date with custom formatting pattern."
+msgstr ""
+
+#: includes/class-replace-vars.php:1137
+msgid "Date Modified (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1138
+msgid "Modified date with custom formatting pattern."
+msgstr ""
+
+#: includes/class-replace-vars.php:1143
+msgid "Current Time (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1144
+msgid "Current server time with custom formatting pattern."
+msgstr ""
+
+#: includes/class-replace-vars.php:1149
+msgid "Categories (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1150
+msgid "Output list of categories associated to the current post, with customization options."
+msgstr ""
+
+#: includes/class-replace-vars.php:1151
+msgid "Example Category 1 | Example Category 2"
+msgstr ""
+
+#: includes/class-replace-vars.php:1155
+msgid "Tags (advanced)"
+msgstr ""
+
+#: includes/class-replace-vars.php:1156
+msgid "Output list of tags associated to the current post, with customization options."
+msgstr ""
+
+#: includes/class-replace-vars.php:1157
+msgid "Example Tag 1 | Example Tag 2"
+msgstr ""
+
+#: includes/class-replace-vars.php:1161
+msgid "Counter"
+msgstr ""
+
+#: includes/class-replace-vars.php:1162
+msgid "Starts at 1 and increments by 1."
+msgstr ""
+
+#: includes/frontend/class-head.php:97
+msgid "Search Engine Optimization by Rank Math - https://s.rankmath.com/home"
+msgstr ""
+
+#: includes/frontend/class-head.php:103
+msgid "Rank Math WordPress SEO plugin"
+msgstr ""
+
+#: includes/frontend/class-shortcodes.php:141
+msgid "Address:"
+msgstr ""
+
+#: includes/frontend/class-shortcodes.php:171
+msgid "Hours:"
+msgstr ""
+
+#: includes/frontend/class-shortcodes.php:400
+msgid "Editor's Rating:"
+msgstr ""
+
+#: includes/helpers/class-choices.php:38
+msgid "Play icon"
+msgstr ""
+
+#: includes/helpers/class-choices.php:44
+msgid "GIF icon"
+msgstr ""
+
+#: includes/helpers/class-choices.php:62
+msgid "No Index"
+msgstr ""
+
+#: includes/helpers/class-choices.php:62
+msgid "Prevents pages from being indexed and displayed in search engine result pages"
+msgstr ""
+
+#: includes/helpers/class-choices.php:63
+msgid "No Follow"
+msgstr ""
+
+#: includes/helpers/class-choices.php:63
+msgid "Prevents search engines from following links on the pages"
+msgstr ""
+
+#: includes/helpers/class-choices.php:64
+msgid "No Archive"
+msgstr ""
+
+#: includes/helpers/class-choices.php:64
+msgid "Prevents search engines from showing Cached links for pages"
+msgstr ""
+
+#: includes/helpers/class-choices.php:65
+msgid "No Image Index"
+msgstr ""
+
+#: includes/helpers/class-choices.php:65
+msgid "Lets you specify that you do not want your pages to appear as the referring page for images that appear in image search results"
+msgstr ""
+
+#: includes/helpers/class-choices.php:66
+msgid "No Snippet"
+msgstr ""
+
+#: includes/helpers/class-choices.php:66
+msgid "Prevents a snippet from being shown in the search results"
+msgstr ""
+
+#: includes/helpers/class-choices.php:128
+msgid "Any"
+msgstr ""
+
+#: includes/helpers/class-choices.php:438
+#: includes/modules/rich-snippet/views/article.php:20
+#: includes/settings/titles/post-types.php:93
+msgid "Article"
+msgstr ""
+
+#: includes/helpers/class-choices.php:439
+msgid "Book"
+msgstr ""
+
+#: includes/helpers/class-choices.php:440
+msgid "Course"
+msgstr ""
+
+#: includes/helpers/class-choices.php:441
+#: includes/modules/rich-snippet/views/event.php:17
+msgid "Event"
+msgstr ""
+
+#: includes/helpers/class-choices.php:442
+msgid "Job Posting"
+msgstr ""
+
+#: includes/helpers/class-choices.php:443
+msgid "Music"
+msgstr ""
+
+#: includes/helpers/class-choices.php:445
+msgid "Recipe"
+msgstr ""
+
+#: includes/helpers/class-choices.php:446
+msgid "Restaurant"
+msgstr ""
+
+#: includes/helpers/class-choices.php:447
+msgid "Video"
+msgstr ""
+
+#: includes/helpers/class-choices.php:448 includes/settings/titles/local.php:16
+msgid "Person"
+msgstr ""
+
+#: includes/helpers/class-choices.php:449
+msgid "Review"
+msgstr ""
+
+#: includes/helpers/class-choices.php:450
+msgid "Service"
+msgstr ""
+
+#: includes/helpers/class-choices.php:451
+msgid "Software Application"
+msgstr ""
+
+#: includes/helpers/class-taxonomy.php:131
+#: includes/modules/rich-snippet/views/event.php:81
+#: includes/modules/rich-snippet/views/event.php:145
+#: includes/modules/rich-snippet/views/job-posting.php:38
+#: includes/modules/rich-snippet/views/metabox-options.php:30
+#: includes/modules/rich-snippet/views/metabox-options.php:45
+#: includes/settings/titles/post-types.php:42
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1448
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1452
+msgid "None"
+msgstr ""
+
+#: includes/metaboxes/advanced.php:14
+msgid "Robots Meta"
+msgstr ""
+
+#: includes/metaboxes/advanced.php:15
+msgid "Custom values for robots meta tag."
+msgstr ""
+
+#: includes/metaboxes/advanced.php:16
+msgid "Index"
+msgstr ""
+
+#: includes/metaboxes/advanced.php:24
+msgid "Canonical URL"
+msgstr ""
+
+#: includes/metaboxes/advanced.php:25
+msgid "The canonical URL informs search crawlers which page is the main page if you have double content."
+msgstr ""
+
+#: includes/metaboxes/advanced.php:32
+msgid "Breadcrumb Title"
+msgstr ""
+
+#: includes/metaboxes/advanced.php:33
+msgid "Breadcrumb Title to use for this post"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:64
+msgid "Facebook"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:64
+msgid "Twitter"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:70
+msgid "Facebook Preview"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:70
+msgid "Twitter Preview"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:77
+msgid "2hrs"
+msgstr ""
+
+#: includes/metaboxes/social-preview.php:83
+msgid "2h"
+msgstr ""
+
+#. translators: Link to global title setting
+#: includes/metaboxes/social-preview.php:108
+#, php-format
+msgid "Set your default image for Facebook & Twitter by adding <a href=\"%s\" target=\"_blank\">OpenGraph Thumbnail</a>"
+msgstr ""
+
+#. translators: link to title setting screen
+#: includes/metaboxes/social-preview.php:119
+msgid "Customize the title, description and images of your post used while sharing on Facebook and Twitter. <a href=\"https://rankmath.com/kb/meta-box-social-tab/\" target=\"_blank\">Read more</a>"
+msgstr ""
+
+#: includes/modules/rich-snippet/class-admin.php:35
+#: includes/modules/rich-snippet/class-admin.php:61
+#: includes/modules/rich-snippet/class-richsnippet.php:44
+msgid "Rich Snippet"
+msgstr ""
+
+#: includes/modules/rich-snippet/class-admin.php:62
+msgid "This tab contains snippet options."
+msgstr ""
+
+#. translators: Google article snippet doc link
+#: includes/modules/rich-snippet/views/article.php:13
+#: includes/settings/titles/post-types.php:87
+msgid "Google does not allow Person as the Publisher for articles. Organization will be used instead. You can read more about this <a href=\"https://developers.google.com/search/docs/data-types/article/?utm_campaign=Rank+Math\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/article.php:18
+#: includes/settings/titles/post-types.php:91
+msgid "Article Type"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/article.php:21
+#: includes/settings/titles/post-types.php:94
+msgid "Blog Post"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/article.php:22
+#: includes/settings/titles/post-types.php:95
+msgid "News Article"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:14
+msgid "Book Editions"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:15
+msgid "Either a specific edition of the written work, or the volume of the work."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:19
+msgid "Add New"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:20
+msgid "Book Edition {#}"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:21
+#: includes/modules/rich-snippet/views/recipe.php:224
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:229
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:29
+msgid "Title"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:30
+msgid "The title of the tome. Use for the title of the tome if it differs from the book.<br>*Optional when tome has the same title as the book."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:36
+msgid "Edition"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:37
+msgid "The edition of the book."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:43
+msgid "ISBN"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:44
+msgid "The ISBN of the print book."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:50
+#: includes/modules/rich-snippet/views/metabox-options.php:81
+msgid "Url"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:51
+msgid "URL specific to this edition if one exists."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:57
+msgid "Author(s)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:58
+msgid "The author(s) of the tome. Use if the author(s) of the tome differ from the related book. Provide one Person entity per author.<br>*Optional when the tome has the same set of authors as the book."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:65
+msgid "Date of first publication of this tome."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:71
+msgid "Book Format"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:72
+msgid "The format of the book."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:74
+msgid "EBook"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:75
+msgid "Hardcover"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:76
+msgid "Paperback"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/book.php:77
+msgid "Audio Book"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/course.php:14
+msgid "Course Provider"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/course.php:21
+msgid "Course Provider URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:14
+msgid "Event Type"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:15
+msgid "Type of the event."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:18
+msgid "Business Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:19
+msgid "Childrens Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:20
+msgid "Comedy Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:21
+msgid "Dance Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:22
+msgid "Delivery Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:23
+msgid "Education Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:24
+msgid "Exhibition Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:25
+msgid "Festival"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:26
+msgid "Food Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:27
+msgid "Literary Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:28
+msgid "Music Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:29
+msgid "Publication Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:30
+msgid "Sale Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:31
+msgid "Screening Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:32
+msgid "Social Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:33
+msgid "Sports Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:34
+msgid "Theater Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:35
+msgid "Visual Arts Event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:45
+msgid "Venue Name"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:46
+msgid "The venue name."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:54
+msgid "Venue URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:55
+msgid "Website URL of the venue"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:63
+#: includes/modules/rich-snippet/views/local.php:14
+#: includes/modules/rich-snippet/views/person.php:22
+msgid "Address"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:70
+msgid "Performer"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:71
+msgid "A performer at the event"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:78
+msgid "Event Status"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:79
+msgid "Current status of the event (optional)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:82
+msgid "Scheduled"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:83
+msgid "Cancelled"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:84
+msgid "Postponed"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:85
+msgid "Rescheduled"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:95
+msgid "Start Date"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:96
+msgid "Date and time of the event."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:105
+msgid "End Date"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:106
+msgid "End date and time of the event."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:114
+msgid "Ticket URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:115
+msgid "A URL where visitors can purchase tickets for the event."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:123
+msgid "Entry Price"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:124
+msgid "Entry price of the event (optional)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:133
+msgid "Currency"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:134
+#: includes/modules/rich-snippet/views/job-posting.php:27
+#: includes/modules/rich-snippet/views/product.php:29
+msgid "ISO 4217 Currency Code"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:142
+msgid "Availability"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:143
+msgid "Offer availability"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:146
+msgid "In Stock"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:147
+msgid "Sold Out"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:148
+msgid "Preorder"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:158
+msgid "Availability Starts"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:159
+msgid "Date and time when offer is made available. (optional)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:167
+msgid "Stock Inventory"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/event.php:168
+msgid "Number of tickets (optional)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:12
+msgid "Google has changed over the years. They've made their results pages more interesting and more useful at the same time. New kinds of content were added."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:14
+msgid "You often see all kinds of content in a SERP. Images, videos, tweets, and maps. Business listings and little bits of trivia (like personal bios or historical facts) were added."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:16
+msgid "These were the first wave of enhancements. They were \"added\" content, as they were added to the original results (which were pushed down the page). Google has also added enhancements to the way certain listings are displayed."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:18
+msgid "Do you remember when you used to see author pictures next to certain listings?"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:20
+msgid "These were \"authorship\" snippets - they were displayed whenever Google recognized the author of an article. Google has dropped support for authorship, but there are other enhancements that it does support today."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:22
+msgid "For instance, there are \"rich snippets\" for articles, videos, businesses, events, products, and recipes."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:24
+msgid "These snippets look different - which makes them stand out. They also tend to rank higher - above the fold (in the top 4 results)."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:26
+msgid "Both of these benefits make Rich Snippets extremely attractive. But Google can't display rich snippets unless it understands your content type. And it needs your help."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:28
+msgid "Google needs you to include special meta-data in your markup to describe what your content is. You need to use a special format called Schema.org, and it has to be perfectly valid."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:30
+msgid "Rank Math can format the Schema.org markup for you - that's what the Rich Snippet tab does for you."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/help.php:32
+msgid "Click here to read full Rich Snippet tutorial"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:16
+msgid "Salary (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:17
+msgid "Insert amount, e.g. \"50.00\", or a salary range, e.g. \"40.00-50.00\"."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:26
+msgid "Salary Currency"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:35
+msgid "Payroll (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:36
+msgid "Salary amount is for"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:39
+msgid "Yearly"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:40
+msgid "Monthly"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:41
+msgid "Weekly"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:42
+msgid "Daily"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:43
+msgid "Hourly"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:53
+msgid "Date Posted"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:54
+msgid "The original date on which employer posted the job. You can leave it empty to use the post publication date as job posted date."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:63
+msgid "Expiry Posted"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:64
+msgid "The date when the job posting will expire. If a job posting never expires, or you do not know when the job will expire, do not include this property."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:72
+msgid "Unpublish when expired"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:73
+msgid "If checked, post status will be changed to Draft and its URL will return a 404 error, as required by the Rich Result guidelines."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:82
+msgid "Employment Type (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:83
+msgid "Type of employment. You can choose more than one value."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:85
+msgid "Full Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:86
+msgid "Part Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:87
+msgid "Contractor"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:88
+msgid "Temporary"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:89
+msgid "Intern"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:90
+msgid "Volunteer"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:91
+msgid "Per Diem"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:101
+msgid "Hiring Organization"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:102
+msgid "The name of the company. Leave empty to use your own company information."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:113
+msgid "Posting ID (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:114
+msgid "The hiring organization's unique identifier for the job. Leave empty to use the post ID."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:122
+msgid "Organization URL (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:123
+msgid "The URL of the organization offering the job position. Leave empty to use your own company information."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:131
+msgid "Organization Logo (Recommended)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:132
+msgid "Logo URL of the organization offering the job position. Leave empty to use your own company information."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/job-posting.php:140
+msgid "Location"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:21
+msgid "Geo Coordinates"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:29
+msgid "Phone Number"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:37
+msgid "Price Range"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:45
+msgid "Opening Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:53
+msgid "Closing Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:61
+msgid "Open Days"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:63
+msgid "Monday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:64
+msgid "Tuesday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:65
+msgid "Wednesday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:66
+msgid "Thursday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:67
+msgid "Friday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:68
+msgid "Saturday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/local.php:69
+msgid "Sunday"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/metabox-options.php:20
+msgid "Rank Math automatically inserts additional Rich Snippet meta data for WooCommerce products. You can set the Rich Snippet Type to \"None\" to disable this feature and just use the default data added by WooCommerce."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/metabox-options.php:26
+#: includes/modules/rich-snippet/views/metabox-options.php:42
+#: includes/settings/titles/post-types.php:38
+#: includes/settings/titles/post-types.php:52
+msgid "Rich Snippet Type"
+msgstr ""
+
+#. translators: link to title setting screen
+#: includes/modules/rich-snippet/views/metabox-options.php:28
+#: includes/modules/rich-snippet/views/metabox-options.php:44
+msgid "Rich Snippets help you stand out in SERPs. <a href=\"https://rankmath.com/kb/rich-snippets/\" target=\"_blank\">Learn more</a>."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/metabox-options.php:56
+#: includes/settings/titles/post-types.php:62
+msgid "Headline"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/metabox-options.php:68
+#: includes/settings/titles/post-types.php:72
+#: vendor/cmb2/cmb2/example-functions.php:543
+msgid "Description"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/metabox-options.php:92
+msgid "Author"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/music.php:14
+#: includes/modules/rich-snippet/views/recipe.php:14
+msgid "Type"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/music.php:16
+msgid "MusicGroup"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/music.php:17
+msgid "MusicAlbum"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/person.php:15
+msgid "Email"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/person.php:29
+msgid "Gender"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/person.php:36
+msgid "Job title"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:14
+msgid "Product SKU"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:21
+msgid "Product Brand"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:28
+msgid "Product Currency"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:36
+msgid "Product Price"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:45
+msgid "Price Valid Until"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:46
+msgid "The date after which the price will no longer be available."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/product.php:53
+msgid "Product In-Stock"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:15
+msgid "Type of dish, for example \"appetizer\", or \"dessert\"."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:23
+msgid "Cuisine"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:24
+msgid "The cuisine of the recipe (for example, French or Ethiopian)."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:32
+msgid "Keywords"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:33
+msgid "Other terms for your recipe such as the season, the holiday, or other descriptors. Separate multiple entries with commas."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:41
+msgid "Recipe Yield"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:42
+msgid "Quantity produced by the recipe, for example \"4 servings\""
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:50
+msgid "Calories"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:51
+msgid "The number of calories in the recipe."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:59
+msgid "Preparation Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:60
+#: includes/modules/rich-snippet/views/recipe.php:69
+#: includes/modules/rich-snippet/views/recipe.php:78
+msgid "Example: 1H30M"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:68
+msgid "Cooking Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:77
+msgid "Total Time"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:86
+msgid "Rating"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:87
+msgid "Rating score of the recipe."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:95
+msgid "Rating Minimum"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:96
+msgid "Rating minimum score of the recipe."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:104
+msgid "Rating Maximum"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:105
+msgid "Rating maximum score of the recipe."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:113
+msgid "Recipe Video"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:114
+msgid "A recipe video URL."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:122
+msgid "Recipe Video Thumbnail"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:123
+msgid "A recipe video thumbnail URL."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:131
+msgid "Recipe Video Name"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:132
+msgid "A recipe video Name."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:140
+msgid "Video Upload Date"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:148
+msgid "Recipe Video Description"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:149
+msgid "A recipe video Description."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:161
+msgid "Recipe Ingredients"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:162
+msgid "Recipe ingredients, add one item per line"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:174
+msgid "Instruction Type"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:176
+msgid "Single Field"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:177
+msgid "How To Step"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:178
+msgid "How To Section"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:188
+msgid "Recipe Instruction Name"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:189
+#: includes/modules/rich-snippet/views/recipe.php:237
+msgid "Instruction name of the recipe."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:201
+#: includes/modules/rich-snippet/views/recipe.php:217
+msgid "Recipe Instructions"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:218
+#: includes/modules/rich-snippet/views/recipe.php:247
+msgid "Steps to take, add one instruction per line"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:222
+msgid "Add New Instruction"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:223
+msgid "Instruction {#}"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:236
+#: includes/settings/titles/local.php:26
+msgid "Name"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/recipe.php:242
+msgid "Text"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/restaurant.php:14
+msgid "Serves Cuisine"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/restaurant.php:15
+msgid "The type of cuisine we serve. separated by comma."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/restaurant.php:23
+msgid "Menu URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/restaurant.php:24
+msgid "The menu url of the restaurant."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:13
+msgid "Worst Rating"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:22
+msgid "Best Rating"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:31
+#: includes/modules/rich-snippet/views/service.php:36
+#: includes/modules/rich-snippet/views/software.php:44
+msgid "Rating Value"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:44
+msgid "Review Location"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:50
+msgid "Below Content"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:51
+msgid "Above Content"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:52
+msgid "Above & Below Content"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:53
+msgid "Custom (use shortcode)"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/review.php:62
+msgid "Copy & paste this shortcode in the content."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/service.php:13
+msgid "Service Type"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/service.php:15
+msgid "The type of service being offered, e.g. veterans' benefits, emergency relief, etc."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/service.php:22
+#: includes/modules/rich-snippet/views/software.php:14
+msgid "Price"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/service.php:30
+#: includes/modules/rich-snippet/views/software.php:22
+msgid "Price Currency"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/service.php:48
+#: includes/modules/rich-snippet/views/software.php:56
+msgid "Rating Count"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/software.php:28
+msgid "Operating System"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/software.php:30
+msgid "For example, \"Windows 7\", \"OSX 10.6\", \"Android 1.6\""
+msgstr ""
+
+#: includes/modules/rich-snippet/views/software.php:36
+msgid "Application Category"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/software.php:38
+msgid "For example, \"Game\", \"Multimedia\""
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:14
+msgid "Content URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:15
+msgid "A URL pointing to the actual video media file."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:23
+msgid "Embed URL"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:24
+msgid "A URL pointing to the embeddable player for the video."
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:32
+msgid "Duration"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:33
+msgid "Duration of the video"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:42
+msgid "Views"
+msgstr ""
+
+#: includes/modules/rich-snippet/views/video.php:43
+msgid "Number of views"
+msgstr ""
+
+#: includes/settings/titles/author.php:12
+msgid "Add SEO Meta Box for Users"
+msgstr ""
+
+#: includes/settings/titles/author.php:13
+msgid "Add SEO Meta Box for user profile pages. Access to the Meta Box can be fine tuned with code, using a special filter hook."
+msgstr ""
+
+#: includes/settings/titles/local.php:14
+msgid "Person or Company"
+msgstr ""
+
+#: includes/settings/titles/local.php:17
+msgid "Organization"
+msgstr ""
+
+#: includes/settings/titles/local.php:19
+msgid "Choose whether the site represents a person or an organization."
+msgstr ""
+
+#: includes/settings/titles/local.php:27
+msgid "Your name or company name"
+msgstr ""
+
+#: includes/settings/titles/local.php:34
+msgid "Logo"
+msgstr ""
+
+#: includes/settings/titles/local.php:35
+msgid "<strong>Min Size: 160Χ90px, Max Size: 1920X1080px</strong>.<br /> A squared image is preferred by the search engines."
+msgstr ""
+
+#: includes/settings/titles/local.php:42
+msgid "URL"
+msgstr ""
+
+#: includes/settings/titles/local.php:43
+msgid "URL of the item."
+msgstr ""
+
+#: includes/settings/titles/misc.php:14
+msgid "Date Archives"
+msgstr ""
+
+#: includes/settings/titles/misc.php:15
+msgid "Redirect date archives to homepage."
+msgstr ""
+
+#: includes/settings/titles/misc.php:17
+#: includes/settings/titles/post-types.php:119
+msgid "Enabled"
+msgstr ""
+
+#: includes/settings/titles/misc.php:18
+#: includes/settings/titles/post-types.php:118
+msgid "Disabled"
+msgstr ""
+
+#: includes/settings/titles/misc.php:26
+msgid "Date Archive Title"
+msgstr ""
+
+#: includes/settings/titles/misc.php:27
+msgid "Title tag on day/month/year based archives."
+msgstr ""
+
+#: includes/settings/titles/misc.php:37
+msgid "Date Archive Description"
+msgstr ""
+
+#: includes/settings/titles/misc.php:38
+msgid "Date archive description."
+msgstr ""
+
+#: includes/settings/titles/misc.php:47
+msgid "Search Results Title"
+msgstr ""
+
+#: includes/settings/titles/misc.php:48
+msgid "Title tag on search results page."
+msgstr ""
+
+#: includes/settings/titles/misc.php:57
+msgid "404 Title"
+msgstr ""
+
+#: includes/settings/titles/misc.php:58
+msgid "Title tag on 404 Not Found error page."
+msgstr ""
+
+#: includes/settings/titles/misc.php:67
+msgid "Noindex Date Archives"
+msgstr ""
+
+#: includes/settings/titles/misc.php:68
+msgid "Prevent date archives from getting indexed by search engines."
+msgstr ""
+
+#: includes/settings/titles/misc.php:75
+msgid "Noindex Search Results"
+msgstr ""
+
+#: includes/settings/titles/misc.php:76
+msgid "Prevent search results pages from getting indexed by search engines. Search results could be considered to be thin content and prone to duplicate content issues."
+msgstr ""
+
+#: includes/settings/titles/misc.php:83
+msgid "Noindex Paginated Pages"
+msgstr ""
+
+#: includes/settings/titles/misc.php:84
+msgid "Set this to on to prevent /page/2 and further of any archive to show up in the search results."
+msgstr ""
+
+#: includes/settings/titles/misc.php:91
+msgid "Noindex Archive Subpages"
+msgstr ""
+
+#: includes/settings/titles/misc.php:92
+msgid "Prevent paginated archive pages from getting indexed by search engines."
+msgstr ""
+
+#: includes/settings/titles/misc.php:99
+msgid "Noindex Password Protected Pages"
+msgstr ""
+
+#: includes/settings/titles/misc.php:100
+msgid "Prevent password protected pages & posts from getting indexed by search engines."
+msgstr ""
+
+#. translators: link to title setting screen
+#: includes/settings/titles/post-types.php:40
+msgid "Default rich snippet selected when creating a new product."
+msgstr ""
+
+#: includes/settings/titles/post-types.php:53
+msgid "Default rich snippet selected when creating a new post of this type. "
+msgstr ""
+
+#: includes/settings/titles/post-types.php:54
+msgid "None (Click here to set one)"
+msgstr ""
+
+#: includes/settings/titles/post-types.php:107
+msgid "Add SEO Meta Box"
+msgstr ""
+
+#: includes/settings/titles/post-types.php:108
+msgid "Add the SEO Meta Box for the editor screen to customize SEO options for posts in this post type."
+msgstr ""
+
+#: includes/settings/titles/post-types.php:115
+msgid "Bulk Editing"
+msgstr ""
+
+#: includes/settings/titles/post-types.php:116
+msgid "Add bulk editing columns to the post listing screen."
+msgstr ""
+
+#: includes/settings/titles/post-types.php:120
+msgid "Read Only"
+msgstr ""
+
+#: includes/settings/titles/social.php:12
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:13
+msgid "Enter your complete Facebook page URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:20
+msgid "Facebook Authorship"
+msgstr ""
+
+#: includes/settings/titles/social.php:21
+msgid "Insert personal Facebook profile URL to show Facebook Authorship when your articles are being shared on Facebook. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:28
+msgid "Facebook Admin"
+msgstr ""
+
+#. translators: numeric user ID link
+#: includes/settings/titles/social.php:30
+#, php-format
+msgid "Enter %s. Use a comma to separate multiple IDs. Alternatively, you can enter an app ID below."
+msgstr ""
+
+#: includes/settings/titles/social.php:36
+msgid "Facebook App"
+msgstr ""
+
+#. translators: numeric app ID link
+#: includes/settings/titles/social.php:38
+#, php-format
+msgid "Enter %s. Alternatively, you can enter a user ID above."
+msgstr ""
+
+#: includes/settings/titles/social.php:44
+msgid "Facebook Secret"
+msgstr ""
+
+#. translators: Learn more link
+#: includes/settings/titles/social.php:46
+#, php-format
+msgid "Enter alphanumeric secret ID. %s."
+msgstr ""
+
+#: includes/settings/titles/social.php:53
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:54
+msgid "Enter your complete Twitter Profile URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:61
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/settings/titles/social.php:62
+msgid "Enter the Twitter username of the author to add <code>twitter:creator</code> tag to posts. eg: <code>MyThemeShopTeam</code>"
+msgstr ""
+
+#: includes/settings/titles/social.php:68
+msgid "Google Places"
+msgstr ""
+
+#. translators: How to find it? link
+#: includes/settings/titles/social.php:70
+#, php-format
+msgid "Enter full URL of your Google Places listing here. %s"
+msgstr ""
+
+#: includes/settings/titles/social.php:76
+msgid "Yelp Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:77
+msgid "Enter your Yelp Listing's full URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:84
+msgid "FourSquare Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:85
+msgid "Enter your FourSquare Page's full URL here."
+msgstr ""
+
+#: includes/settings/titles/social.php:92
+msgid "Flickr Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:93
+msgid "Enter your Flickr Page or Profile URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:100
+msgid "Reddit Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:101
+msgid "Enter your domain's Reddit URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:108
+msgid "LinkedIn Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:109
+msgid "Enter your LinkedIn profile URL (for personal blogs) or your company URL (for business blogs). eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:116
+msgid "Instagram Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:117
+msgid "Enter your Instagram profile URL here. e.g: "
+msgstr ""
+
+#: includes/settings/titles/social.php:124
+msgid "Youtube Channel URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:125
+msgid "Enter your YouTube Channel's URL here. e.g"
+msgstr ""
+
+#: includes/settings/titles/social.php:132
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:133
+msgid "Enter your Pinterest Profile URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:140
+msgid "SoundClound Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:141
+msgid "Enter your SoundCloud URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:148
+msgid "Tumblr Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:149
+msgid "Enter your Tumblr URL here. eg:"
+msgstr ""
+
+#: includes/settings/titles/social.php:156
+msgid "Myspace Page URL"
+msgstr ""
+
+#: includes/settings/titles/social.php:157
+msgid " Enter your MySpace profile here. e.g: "
+msgstr ""
+
+#: includes/settings/titles/taxonomies.php:18
+msgid "Remove Snippet Data"
+msgstr ""
+
+#. translators: taxonomy name
+#: includes/settings/titles/taxonomies.php:20
+#, php-format
+msgid "Remove schema data from %s."
+msgstr ""
+
+#: includes/traits/class-ajax.php:53
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#. translators: WordPress Version
+#: schema-markup.php:194
+#, php-format
+msgid "Rank Math requires WordPress version %s or above. Please update WordPress to run this plugin."
+msgstr ""
+
+#. translators: PHP Version
+#: schema-markup.php:200
+#, php-format
+msgid "Rank Math requires PHP version %s or above. Please update PHP to run this plugin."
+msgstr ""
+
+#: schema-markup.php:206
+#, php-format
+msgid "%s plugin is active. You don't need Schema Markup plugin separately."
+msgstr ""
+
+#: schema-markup.php:336
+msgid "Getting Started"
+msgstr ""
+
+#: schema-markup.php:337
+msgid "Documentation"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:150
+#: vendor/cmb2/cmb2/example-functions.php:490
+msgid "Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:151
+#: vendor/cmb2/cmb2/example-functions.php:164
+#: vendor/cmb2/cmb2/example-functions.php:177
+#: vendor/cmb2/cmb2/example-functions.php:184
+#: vendor/cmb2/cmb2/example-functions.php:197
+#: vendor/cmb2/cmb2/example-functions.php:205
+#: vendor/cmb2/cmb2/example-functions.php:214
+#: vendor/cmb2/cmb2/example-functions.php:222
+#: vendor/cmb2/cmb2/example-functions.php:237
+#: vendor/cmb2/cmb2/example-functions.php:245
+#: vendor/cmb2/cmb2/example-functions.php:253
+#: vendor/cmb2/cmb2/example-functions.php:270
+#: vendor/cmb2/cmb2/example-functions.php:279
+#: vendor/cmb2/cmb2/example-functions.php:295
+#: vendor/cmb2/cmb2/example-functions.php:302
+#: vendor/cmb2/cmb2/example-functions.php:309
+#: vendor/cmb2/cmb2/example-functions.php:334
+#: vendor/cmb2/cmb2/example-functions.php:347
+#: vendor/cmb2/cmb2/example-functions.php:360
+#: vendor/cmb2/cmb2/example-functions.php:372
+#: vendor/cmb2/cmb2/example-functions.php:381
+#: vendor/cmb2/cmb2/example-functions.php:389
+#: vendor/cmb2/cmb2/example-functions.php:398
+#: vendor/cmb2/cmb2/example-functions.php:405
+#: vendor/cmb2/cmb2/example-functions.php:419
+#: vendor/cmb2/cmb2/example-functions.php:491
+#: vendor/cmb2/cmb2/example-functions.php:583
+#: vendor/cmb2/cmb2/example-functions.php:591
+#: vendor/cmb2/cmb2/example-functions.php:598
+#: vendor/cmb2/cmb2/example-functions.php:605
+#: vendor/cmb2/cmb2/example-functions.php:612
+#: vendor/cmb2/cmb2/example-functions.php:619
+#: vendor/cmb2/cmb2/example-functions.php:626
+#: vendor/cmb2/cmb2/example-functions.php:653
+#: vendor/cmb2/cmb2/example-functions.php:661
+#: vendor/cmb2/cmb2/example-functions.php:668
+#: vendor/cmb2/cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:163
+msgid "Test Text Small"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:176
+msgid "Test Text Medium"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:183
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:187
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:196
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:204
+msgid "Website URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:213
+msgid "Test Text Email"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:221
+msgid "Test Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:229
+#: vendor/cmb2/cmb2/example-functions.php:230
+msgid "Time zone"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:236
+msgid "Test Date Picker"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:244
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:252
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:269
+msgid "Test Money"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:278
+msgid "Test Color Picker"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:294
+msgid "Test Text Area"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:301
+msgid "Test Text Area Small"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:308
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:326
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:327
+msgid "This is a title description"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:333
+msgid "Test Select"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:339
+#: vendor/cmb2/cmb2/example-functions.php:352
+#: vendor/cmb2/cmb2/example-functions.php:364
+msgid "Option One"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:340
+#: vendor/cmb2/cmb2/example-functions.php:353
+#: vendor/cmb2/cmb2/example-functions.php:365
+msgid "Option Two"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:341
+#: vendor/cmb2/cmb2/example-functions.php:354
+#: vendor/cmb2/cmb2/example-functions.php:366
+msgid "Option Three"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:346
+msgid "Test Radio inline"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:359
+msgid "Test Radio"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:371
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:380
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:388
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:397
+msgid "Test Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:404
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:410
+msgid "Check One"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:411
+msgid "Check Two"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:412
+msgid "Check Three"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:418
+msgid "Test wysiwyg"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:428
+msgid "Test Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:429
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:435
+msgid "Multiple Files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:436
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:443
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: vendor/cmb2/cmb2/example-functions.php:446
+#, php-format
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:479
+msgid "About Page Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:510
+msgid "Repeating Field Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:518
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:520
+msgid "Entry {#}"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:521
+msgid "Add Another Entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:522
+msgid "Remove Entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:536
+msgid "Entry Title"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:544
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:550
+msgid "Entry Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:556
+msgid "Image Caption"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:582
+#: vendor/cmb2/cmb2/example-functions.php:652
+msgid "Extra Info"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:645
+msgid "Category Metabox"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:660
+msgid "Term Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:667
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:686
+msgid "Theme Options"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:787
+msgid "REST Test Box"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:796
+msgid "REST Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:797
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:803
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: vendor/cmb2/cmb2/example-functions.php:804
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2.php:199
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2.php:603
+msgid "Click to toggle"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: vendor/cmb2/cmb2/includes/CMB2_Ajax.php:189
+#: vendor/cmb2/cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid "The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid "Using the \"%1$s\" field parameter as a callback has been deprecated in favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid "%1$s was called with a parameter that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:491
+#: vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:102
+#: vendor/cmb2/cmb2/includes/CMB2_Options.php:247
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:357
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Base.php:509
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1415
+msgid "Add Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1416
+msgid "Remove Group"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field.php:1563
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Field_Display.php:432
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:230
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:165
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:210
+msgid "Clear"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:200
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:201
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:202
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:203
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:204
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:205
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:206
+msgid "Next"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:207
+msgid "Prev"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:208
+msgid "Today"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:209
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:219
+msgid "Done"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:213
+msgid "Choose Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:214
+msgid "Time"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:215
+msgid "Hour"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:216
+msgid "Minute"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:217
+msgid "Second"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:218
+msgid "Now"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:220
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:226
+msgid "Use this file"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:227
+msgid "Use these files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:228
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:231
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_JS.php:232
+msgid "Select / Deselect All"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_Types.php:406
+msgid "Remove Row"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:182
+msgid "Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress install."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:186
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/CMB2_hookup.php:466
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/helper-functions.php:307
+msgid "Save"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid "No box found by that id. A box needs to be registered with the \"show_in_rest\" parameter configured."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid "Includes the fully rendered attributes, 'form_open', 'form_close', as well as the enqueued 'js_dependencies' script handles, and 'css_dependencies' stylesheet handles."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid "When the '_rendered' argument is passed, the renderable field attributes will be returned fully rendered. By default, the names of the callback handers for the renderable attributes will be returned."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid "To view or modify the field's value, the 'object_id' and 'object_type' arguments are required."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid "CMB2 Field value cannot be modified without the object_id and object_type parameters specified."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:35
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:47
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:59
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:71
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:83
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:95
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:107
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:119
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:131
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:143
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:155
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: vendor/cmb2/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-list-table.php:33
+msgid "No items found."
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:120
+msgid "$id variable required"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:120
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:124
+msgid "Variable Required"
+msgstr ""
+
+#: vendor/mythemeshop/wordpress-helpers/src/admin/class-page.php:124
+msgid "$title variable required"
+msgstr ""
